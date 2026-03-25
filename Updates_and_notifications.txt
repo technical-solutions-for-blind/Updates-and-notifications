@@ -1,4 +1,9 @@
+# --- कीवर्ड्स लिस्ट (सिर्फ जानकारी के लिए) ---
+# Type: UPDATE, REGISTRATION, MESSAGE, GREETING, OFFER
+# ------------------------------------------------
+
 true
+UPDATE
 New Version 1.2 is Now Available!
 We have introduced a smart background notification system and a powerful deep cleanup engine. Update now to experience a faster and smoother system performance.
 ms-windows-store://pdp/?productid=9MVK18VSF7CV
