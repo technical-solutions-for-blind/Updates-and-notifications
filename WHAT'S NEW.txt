@@ -1,0 +1,16 @@
+--- WHAT'S NEW IN VERSION 1.2 ---
+
+[NEW FEATURES]
+* Classic Start Menu: Easily restore the classic Windows 11 Start Menu using our built-in ViVeTool engine.
+* DNS Cache Flush: Brand new dedicated tool to clear your DNS cache, resolving internet connectivity and speed issues.
+* Smart Background Notifications: Optimized update system that works silently in the background without lagging your app.
+* Real-time Bell Alerts: Instant sound notification system to alert you about new videos, competitions, or updates.
+
+[IMPROVEMENTS & BUG FIXES]
+* Enhanced Screen Reader Support: Improved accessibility for visually impaired users with better label descriptions.
+* Temporary File Logic: Fixed bugs in the cleaning engine that sometimes skipped hidden temp folders.
+* Path Detection Fix: Improved the way the app detects Windows and User temp directories for 100% accuracy.
+* Performance Optimization: Faster app startup and reduced RAM usage during system health monitoring.
+
+[STAY CONNECTED]
+* Don't forget to check the 'Notification Center' for the latest competition registration links!
